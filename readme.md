@@ -19,3 +19,15 @@
 - install gh cli from [https://cli.github.com/manual/]
 - gh auth login
 - gh config set editor "code --wait"
+
+## steps to push to github
+
+- create repo in github, default branch as main
+- git init -b main
+- git add .
+- git commit -m "first commit"
+- git remote add origin https://github.com/venice-chan/smartvms.git
+- git remote -v
+- git pull --set-upstream origin main
+- git pull --allow-unrelated-histories
+- git push origin main
