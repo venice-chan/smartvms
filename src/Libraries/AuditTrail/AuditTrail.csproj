@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>SmartVms.AuditTrail</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>venicechan</Authors>
+    <Company>vc</Company>
+    <PackageDescription>DB Context that implements audit trail</PackageDescription>
+    <RepositoryUrl>https://github.com/venice-chan/smartvms</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
