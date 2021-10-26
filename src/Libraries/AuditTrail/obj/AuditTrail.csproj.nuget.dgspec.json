@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\workspace\\personal\\dotnet-apps\\smartVms\\src\\Libraries\\AuditTrail\\AuditTrail.csproj",
-        "projectName": "AuditTrail",
+        "projectName": "SmartVms.AuditTrail",
         "projectPath": "C:\\workspace\\personal\\dotnet-apps\\smartVms\\src\\Libraries\\AuditTrail\\AuditTrail.csproj",
         "packagesPath": "C:\\Users\\siew.chong.chan\\.nuget\\packages\\",
         "outputPath": "C:\\workspace\\personal\\dotnet-apps\\smartVms\\src\\Libraries\\AuditTrail\\obj\\",

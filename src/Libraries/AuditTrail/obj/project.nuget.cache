@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DEVtJ8ecVgLy49mvIVXjnizbnSI2Cb0YXPJ/CD73qaYwm03QsuEXmpZoEXMIRRWFGsMAkhyvVM+GQaRbwbaj4g==",
+  "dgSpecHash": "ArnF2YfdSdYVTB73ti6CU2TtQgjlRTPWXVnkkeuCGmlbi2Bw6X/pnvKL7l6Q2uZWUEZ+Y2hHANAWUVeL5XyDdg==",
   "success": true,
   "projectFilePath": "C:\\workspace\\personal\\dotnet-apps\\smartVms\\src\\Libraries\\AuditTrail\\AuditTrail.csproj",
   "expectedPackageFiles": [],
